@@ -32,6 +32,8 @@ Página desenvolvida na semana DIO Mundo invertido, onde a aplicação abordada 
     - Introdução ao Firebase
     - Integração com o Firebase
 
+[🔗 Clique aqui para acessar](https://kennylima.github.io/Mundo_invertido_DIO/)
+
 ## 💻 Contato 
 
  > kennylima@hotmail.com
